@@ -8,4 +8,8 @@
    - make sure no random files are added!
    - if there are, add them to .gitignore
 2. git add .
-3. 
+3. git commit -m "meaningful message that describes what you did"
+4. git push origin main
+
+# Download packages
+1. `pip install -r requirements.txt`

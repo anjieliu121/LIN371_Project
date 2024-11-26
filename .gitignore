@@ -1,5 +1,8 @@
 .DS_Store
 .idea/
+.venv/
+raw_data/reddit.l2
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
