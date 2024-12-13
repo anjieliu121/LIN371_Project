@@ -1,4 +1,4 @@
-Prompt from March 2000 FCE Exam:
+## Prompt from March 2000 FCE Exam:
 
 You recently entered a competition and have just received this letter from the organiser.
 Read the letter, on which you have made some notes.
