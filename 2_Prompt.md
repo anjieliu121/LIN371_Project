@@ -1,3 +1,11 @@
+## Prompt for LLM to learn from FCE Dataset:
+
+You receive a CSV file containing B2 First test takers’ information, their responses to the questions, and the types of mistakes they made. You learn from the essays written by all Chinese test takers, capturing their word usage, common mistakes, grammar, and sentence structures from their essays. Now you will respond to the new questions with a similar writing style as those given Chinese test takers.
+
+## Prompt to assess output:
+
+You are an English language expert. Now you are given a piece of text written by someone with English as their second language. First, rate the person’s written text in terms of their English language fluency and nativeness. List out the awkward mistakes, words, sentence structure, grammar used in the text. Next, give three languages that you think are most likely to be the person’s native language.
+
 ## Prompt from March 2000 FCE Exam:
 
 You recently entered a competition and have just received this letter from the organiser.
