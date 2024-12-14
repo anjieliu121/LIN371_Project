@@ -10,7 +10,7 @@ You are an English language expert. Now you are given a piece of text written by
 
 You recently entered a competition and have just received this letter from the organiser.\
 Read the letter, on which you have made some notes.\
-Then, using all the information in your notes, write a suitable reply.\
+Then, using all the information in your notes, write a suitable reply.
 
 Congratulations!
 You have won first prize in our competition --- two weeks at Camp California in the U.S.A.\
@@ -37,7 +37,7 @@ Singing\
 Sailing\
 Tennis\
 Photography\
-Surfing\
+Surfing
 
 Is there anything you would like to ask us?\
 clothes, money ...?
@@ -50,40 +50,42 @@ Write a letter of between 120 and 180 words in an appropriate style on the oppos
 Do not write any postal addresses.
 
 ## GPT 4o mini - Evaluation
-Fluency and Nativeness Rating:
+###### Fluency and Nativeness Rating:
 
-Fluency: 9/10 – The text is clear, coherent, and well-structured. The writer demonstrates good command of vocabulary, grammar, and sentence variety.
-Nativeness: 8/10 – While the writing is nearly native-like, there are subtle signs that it may have been written by a non-native speaker. Word choice, sentence patterns, and tone are almost perfect but slightly more formal than what a native speaker might use.
-Awkward Mistakes, Grammar, and Sentence Structure Issues:
+Fluency: 9/10 – The text is clear, coherent, and well-structured. The writer demonstrates good command of vocabulary, grammar, and sentence variety.\
+Nativeness: 8/10 – While the writing is nearly native-like, there are subtle signs that it may have been written by a non-native speaker. Word choice, sentence patterns, and tone are almost perfect but slightly more formal than what a native speaker might use.\
+
+###### Awkward Mistakes, Grammar, and Sentence Structure Issues:
 
 "I am thrilled to have won first prize in your competition and I am very grateful for this amazing opportunity."
-Issue: The sentence is grammatically correct but could be more natural.
-Suggestion: Replace "and I am very grateful" with "and very grateful" for conciseness.
-Improved Version: "I am thrilled to have won first prize in your competition and very grateful for this amazing opportunity."
+- Issue: The sentence is grammatically correct but could be more natural.
+- Suggestion: Replace "and I am very grateful" with "and very grateful" for conciseness.
+- Improved Version: "I am thrilled to have won first prize in your competition and very grateful for this amazing opportunity."
 "Regarding the travel dates, I would like to travel only in July as it best fits my schedule."
-Issue: "only in July" sounds slightly awkward.
-Suggestion: Change "only in July" to "in July only" for better natural flow.
-Improved Version: "Regarding the travel dates, I would like to travel in July only as it best fits my schedule."
+- Issue: "only in July" sounds slightly awkward.
+- Suggestion: Change "only in July" to "in July only" for better natural flow.
+- Improved Version: "Regarding the travel dates, I would like to travel in July only as it best fits my schedule."
 "For accommodation, I would prefer to stay in a log cabin because it offers more comfort and protection from weather changes."
-Issue: The phrase "protection from weather changes" is understandable but could be more natural.
-Suggestion: Replace "weather changes" with "the elements" (a common English expression) or "changing weather."
-Improved Version: "For accommodation, I would prefer to stay in a log cabin because it offers more comfort and protection from the elements."
+- Issue: The phrase "protection from weather changes" is understandable but could be more natural.
+- Suggestion: Replace "weather changes" with "the elements" (a common English expression) or "changing weather."
+- Improved Version: "For accommodation, I would prefer to stay in a log cabin because it offers more comfort and protection from the elements."
 "I believe this will make the experience more enjoyable and restful."
-Issue: This sentence is correct but "restful" might feel slightly unnatural.
-Suggestion: Replace "restful" with "relaxing" for a more natural tone.
-Improved Version: "I believe this will make the experience more enjoyable and relaxing."
+- Issue: This sentence is correct but "restful" might feel slightly unnatural.
+- Suggestion: Replace "restful" with "relaxing" for a more natural tone.
+- Improved Version: "I believe this will make the experience more enjoyable and relaxing."
 "I am a confident swimmer and have practiced for several years, so I can fully enjoy the water activities."
-Issue: This sentence is technically correct, but "practiced for several years" could be more naturally phrased.
-Suggestion: Use "been swimming for several years" instead of "practiced."
-Improved Version: "I am a confident swimmer and have been swimming for several years, so I can fully enjoy the water activities."
+- Issue: This sentence is technically correct, but "practiced for several years" could be more naturally phrased.
+- Suggestion: Use "been swimming for several years" instead of "practiced."
+- Improved Version: "I am a confident swimmer and have been swimming for several years, so I can fully enjoy the water activities."
 "Lastly, I would like to ask about clothing recommendations and how much spending money would be advisable to bring for personal needs."
-Issue: The phrase "how much spending money would be advisable" is understandable but slightly formal.
-Suggestion: Replace it with "how much spending money I should bring."
-Improved Version: "Lastly, I would like to ask about clothing recommendations and how much spending money I should bring for personal needs."
-Most Likely Native Languages:
+- Issue: The phrase "how much spending money would be advisable" is understandable but slightly formal.
+- Suggestion: Replace it with "how much spending money I should bring."
+- Improved Version: "Lastly, I would like to ask about clothing recommendations and how much spending money I should bring for personal needs."
 
-Chinese (Mandarin or Cantonese) – The formal tone, structured logic, and slight awkwardness in phrasing are typical of native Chinese speakers writing in English. The preference for "practiced" instead of "been swimming" is also common among Chinese learners of English.
-Korean – Korean speakers often use formal and polite expressions, and they sometimes have difficulty with idiomatic phrases like "protection from the elements."
+###### Most Likely Native Languages:
+
+Chinese (Mandarin or Cantonese) – The formal tone, structured logic, and slight awkwardness in phrasing are typical of native Chinese speakers writing in English. The preference for "practiced" instead of "been swimming" is also common among Chinese learners of English.\
+Korean – Korean speakers often use formal and polite expressions, and they sometimes have difficulty with idiomatic phrases like "protection from the elements."\
 Japanese – Japanese speakers also tend to maintain a polite and formal tone, and their writing can be direct and structured in this way.
 
 ## GPT 4o mini - TUNED
